@@ -1,4 +1,4 @@
-#include "esther.h"
+#include "Esther.h"
 
 /**
   * main - Entry point
@@ -8,7 +8,7 @@
 int main(void)
 {
 	_putchar('E');
-	_putchar('s');
+	_putchar('e');
 	_putchar('t');
 	_putchar('h');
 	_putchar('e');
