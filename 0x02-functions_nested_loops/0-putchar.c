@@ -1,23 +1,22 @@
+#include "main.h"
 /**
- * main - entry point
- *
- * Print holberton
- *
- * Return: Always 0 (Success)
- */
+*main - Enrty point
+*
+*Discription: print _putchar
+*
+*Return: 0 if successfull
+*/
 int main(void)
 {
-	int _putchar(char c);
-
-	_putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
-	_putchar('e');
-	_putchar('r');
+	putchar('');
+	_putchar('p');
+	_putchar('u');
 	_putchar('t');
-	_putchar('o');
-	_putchar('n');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
